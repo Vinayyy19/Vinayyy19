@@ -7,7 +7,7 @@ I am an enthusiastic developer with a keen interest in front-end and back-end te
 I've been on a continuous learning adventure, exploring new technologies and improving my skills.
 
 ## 💻 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, c, c++, java
+- **Languages:** HTML, CSS, JavaScript,c++, java, python
 - **Front-end:** React.js, Tailwind, bootstrap
 - **Back-end:** Node.js, Express
 - **Database:** MongoDB, MySQL
