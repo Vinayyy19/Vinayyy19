@@ -20,7 +20,7 @@ with a goal to become a better coder every day. Stay tuned for the exciting proj
 Feel free to explore more in my repositories!
 
 ## 📫 Let's Connect
-- LinkedIn: Vinay Yadav (https://www.linkedin.com/in/vinay-yadav-98489a286)
+- LinkedIn: Vinay Yadav (https://www.linkedin.com/in/vinay-yadav1902/)
 - Mail: vinay.manoj.yadav491@gmail.com
 
 I'm always open to interesting projects and collaborations. If you have an idea or just want to chat, feel free to reach out. Let's build something amazing together! 🚀
