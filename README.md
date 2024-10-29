@@ -13,6 +13,9 @@ I've been on a continuous learning adventure, exploring new technologies and imp
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, Github
 
+## Hacktoberfest Badges
+[![An image of @vinayyy19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayyy19)](https://holopin.io/@vinayyy19)
+
 ## 🌱 What I'm Currently Learning
 I believe in the philosophy of lifelong learning. Currently, I am diving deeper into open source contribution, 
 with a goal to become a better coder every day. Stay tuned for the exciting projects that will showcase my newfound skills!
