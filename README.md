@@ -6,7 +6,6 @@ Full-Stack Developer | LeetCode Knight | Open Source Contributor
 
 ## 🚀 About Me
 
-- 🎓 Final year B.Sc. IT student at Mumbai University (CGPA: 8.90/10)
 - 💼 2x Internship experience building production-grade web applications
 - 🧠 LeetCode **Knight** badge — **1904+ rating**, Top **4.5% globally** among 5M+ users
 - 💻 **1400+ DSA problems** solved across LeetCode & GeeksForGeeks
