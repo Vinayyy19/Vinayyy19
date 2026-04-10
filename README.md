@@ -12,7 +12,7 @@ Full-Stack Developer | LeetCode Knight | Open Source Contributor
 - 🔥 **400+ day** continuous coding streak
 - 🏆 Ranked **Top 10 twice** in 24-hour National Level Hackathons
 - 🎯 Organized and headed a college-level hackathon, mentoring student teams on project execution
-- 🌱 Active open source contributor — GitHub **Pull Shark** badge, Hacktoberfest participant
+- 🌱 Active open source contributor — GitHub Contributions, Hacktoberfest Badge, GSSOC participant
 
 ---
 
